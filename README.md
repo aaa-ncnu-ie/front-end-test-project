@@ -11,17 +11,13 @@ Convert the following designs to HTML/CSS/JS.
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using [Chisel](https://www.getchisel.co/)
-2. Use HTML5 / SCSS
-3. Make it responsive using your best judgement.
-4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it.
-5. Create some hover effect for the image thumbnails.
-6. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
-7. *Optional bonus task 1:* Make images responsive
-8. *Optional bonus task 2:* Add basic routing – make browser's back button work properly; open overlay based on URL.
-
-## Design
-Design is available in [Figma](https://www.figma.com/) at https://www.figma.com/file/ZGj2jrg8V5tE2g35V8ueAHAb/Xfive-Front-end-Test. If you haven't already, sign up for a free Figma account, so you can work with the design.
+1. Use HTML5 / SCSS
+2. Make it responsive using your best judgement.
+3. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it.
+4. Create some hover effect for the image thumbnails.
+5. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
+6. *Optional bonus task 1:* Make images responsive
+7. *Optional bonus task 2:* Add basic routing – make browser's back button work properly; open overlay based on URL.
 
 The following images are used in the design:
  -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
@@ -38,10 +34,10 @@ Ensure that the elements work and display correctly in the following browsers:
 - Internet Explorer 11
 
 ## Coding Standards
-When working on the project use consistent coding style. Try to follow what's already in Chisel - EditorConfig, stylelint, ESLint (see [Code Quality](https://www.getchisel.co/docs/development/code-quality/)), [ITCSS](https://www.getchisel.co/docs/development/itcss/), etc.
+When working on the project use consistent coding style. 
 
 ## Project Deadline
-Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+Take your time but try to deliver it within by Monday..via Git. You can commit to this project.
 
 ## Quality Assurance
 
