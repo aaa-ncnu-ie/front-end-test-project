@@ -5,10 +5,10 @@ Front-end Test Project
 Convert the following designs to HTML/CSS/JS.
 
 ### Thumbnails
-![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
+![Front-end Test Thumbnails](front-end-test-thumbs.jpg)
 
 ### Overlay
-![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
+![Front-end Test Overlay](front-end-test-overlay.jpg)
 
 ## Requirements
 1. Use HTML5 / SCSS
@@ -34,7 +34,7 @@ Ensure that the elements work and display correctly in the following browsers:
 - Internet Explorer 11
 
 ## Coding Standards
-When working on the project use consistent coding style. 
+When working on the project use consistent coding style.
 
 ## Project Deadline
 Take your time but try to deliver it within by Monday..via Git. You can commit to this project.
